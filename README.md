@@ -24,7 +24,7 @@ The below describes what each Dockerfile does:
             <li><code>me@mypc:$ docker build . -t minecraft:vanilla</code></li>
         </ol>
     </li>
-    <li>The output will end with a similar message to the below (note that the build number of deaf9dc3da4d will be different in your build):
+    <li>The output will end with a similar message to the below (note that the build number of deaf9dc3da4d will be different in your build):</br>
         <code>Successfully built deaf9dc3da4d</code></br>
         <code>Successfully tagged minecraft:vanilla</code>
     </li>
